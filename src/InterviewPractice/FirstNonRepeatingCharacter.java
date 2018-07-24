@@ -1,6 +1,5 @@
 package InterviewPractice;
 
-import org.junit.platform.commons.util.StringUtils;
 
 public class FirstNonRepeatingCharacter {
 
